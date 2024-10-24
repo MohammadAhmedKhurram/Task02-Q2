@@ -18,14 +18,14 @@ export default function Home() {
           fontSize: "50px",
         }}
       >
-        Dynamic Routing Task by{" "}
+        Dynamic Routing Task by
         <strong>
           <i
             style={{
               color: "#D73E10",
             }}
           >
-            Muhammad Ahmed
+            &quot;Muhammad Ahmed&quot;
           </i>
         </strong>
       </p>
