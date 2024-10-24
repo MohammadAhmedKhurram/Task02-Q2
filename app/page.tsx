@@ -25,7 +25,7 @@ export default function Home() {
               color: "#D73E10",
             }}
           >
-            "Muhammad Ahmed"
+            Muhammad Ahmed
           </i>
         </strong>
       </p>

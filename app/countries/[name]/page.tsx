@@ -2,7 +2,7 @@ import CountryCard from "@/app/component/CountryCardCom";
 import Link from "next/link";
 
 export default function CountrysInfo({ params }: { params: { name: string } }) {
-  let countrysData = [
+  const countrysData = [
     {
       Name: "China",
       Population: "1.425 billion",
